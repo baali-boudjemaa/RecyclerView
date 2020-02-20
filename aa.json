@@ -1,0 +1,62 @@
+
+[{
+        "title": "Star Wars: The Last Jedi",
+        "avatar": "https://api.androidhive.info/json/movies/starwars.jpg",
+        "price": "₹ 160"
+    },
+{
+        "title": "Shape Of Water",
+        "avatar": "https://api.androidhive.info/json/movies/shape_of_water.jpg",
+        "price": "₹ 130"
+    },
+    {
+        "title": "Baahubali: The Conclusion",
+        "avatar": "https://api.androidhive.info/json/movies/baahubali2.jpg",
+        "price": "₹ 210"
+    },
+    {
+        "title": "Thor: The Ragnarok",
+        "avatar": "https://api.androidhive.info/json/movies/thor_ragnarok.jpg",
+        "price": "₹ 170"
+    },
+    {
+        "title": "Justice League",
+        "avatar": "https://api.androidhive.info/json/movies/justice_league.jpg",
+        "price": "₹ 120"
+    },
+    {
+        "title": "Coco",
+        "avatar": "https://api.androidhive.info/json/movies/coco.jpg",
+        "price": "₹ 110"
+    },
+    {
+        "title": "Jumanji: Welcome To The Jungle",
+        "avatar": "https://api.androidhive.info/json/movies/jumanji.jpg",
+        "price": "₹ 120"
+    },
+    {
+        "title": "Murder On The Orient Express",
+        "avatar": "https://api.androidhive.info/json/movies/murder_on_express.jpg",
+        "price": "₹ 160"
+    },
+    {
+        "title": "Spider-Man: Homecoming",
+        "avatar": "https://api.androidhive.info/json/movies/spiderman_homecoming.jpg",
+        "price": "₹ 190"
+    },
+    {
+        "title": "Ferdinand",
+        "avatar": "https://api.androidhive.info/json/movies/ferdinand.jpg",
+        "price": "₹ 100"
+    },
+    {
+        "title": "The Disaster Artist",
+        "avatar": "https://api.androidhive.info/json/movies/disaster_artist.jpg",
+        "price": "₹ 90"
+    },
+    {
+        "title": "Lady Bird",
+        "avatar": "https://api.androidhive.info/json/movies/lady_bird.jpg",
+        "price": "₹ 80"
+    }
+    ]
